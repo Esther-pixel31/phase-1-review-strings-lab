@@ -5,29 +5,29 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2025-03-04T14:50:44.894Z",
-    "end": "2025-03-04T14:50:45.417Z",
-    "duration": 523
+    "start": "2025-03-04T18:21:09.896Z",
+    "end": "2025-03-04T18:21:10.847Z",
+    "duration": 951
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,21 +87,21 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
